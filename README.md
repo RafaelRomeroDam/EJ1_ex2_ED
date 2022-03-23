@@ -8,3 +8,10 @@ Crea un repositorio en tu cuenta de GitHub, llamado EJ1_ex2_ED y sube ahí los r
 
 Nota: no es necesario controlar las versiones del proyecto.
 * Si tienes tiempo, utiliza GitHub Pages para publicar el resultado.
+
+# Creación documentación javadoc
+
+1º Importamos el proyecto en Eclipse
+2º Revismos el código
+3º Creamos el documento javadoc en Project -> Generate javadoc
+4º Guardamos en la carpeta seleccionada
